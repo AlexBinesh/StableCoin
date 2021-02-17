@@ -2,30 +2,29 @@
 1.53.0-main.sock
 1.53.1-main.sock
 1.53.2-main.sock
-Backups
-blob_storage
-build
-Cache
-CachedData
-CachedExtensions
-CachedExtensionVSIXs
-'Code Cache'
+/Backups
+/blob_storage
+/build
+/Cache
+/CachedData
+/CachedExtensions
+/CachedExtensionVSIXs
+/'Code Cache'
 Cookies
 Cookies-journal
-'Crash Reports'
-Dictionaries
-'exthost Crash Reports'
-GPUCache
+/'Crash Reports'
+/Dictionaries
+/'exthost Crash Reports'
+/GPUCache
 languagepacks.json
-'Local Storage'
-logs
-machineid
+/'Local Storage'
+/logs
+/machineid
 migrations
 'Network Persistent State'
 rapid_render.json
-README.md
-'Session Storage'
+/'Session Storage'
 storage.json
 TransportSecurity
 truffle-config.js
-User
+/User

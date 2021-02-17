@@ -716,54 +716,45 @@
                                 },
                                 {
                                     "id": "workbench.action.focusThirdEditorGroup",
-                                    "label": "Group &&3",
-                                    "enabled": false
+                                    "label": "Group &&3"
                                 },
                                 {
                                     "id": "workbench.action.focusFourthEditorGroup",
-                                    "label": "Group &&4",
-                                    "enabled": false
+                                    "label": "Group &&4"
                                 },
                                 {
                                     "id": "workbench.action.focusFifthEditorGroup",
-                                    "label": "Group &&5",
-                                    "enabled": false
+                                    "label": "Group &&5"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusNextGroup",
-                                    "label": "&&Next Group",
-                                    "enabled": false
+                                    "label": "&&Next Group"
                                 },
                                 {
                                     "id": "workbench.action.focusPreviousGroup",
-                                    "label": "&&Previous Group",
-                                    "enabled": false
+                                    "label": "&&Previous Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusLeftGroup",
-                                    "label": "Group &&Left",
-                                    "enabled": false
+                                    "label": "Group &&Left"
                                 },
                                 {
                                     "id": "workbench.action.focusRightGroup",
-                                    "label": "Group &&Right",
-                                    "enabled": false
+                                    "label": "Group &&Right"
                                 },
                                 {
                                     "id": "workbench.action.focusAboveGroup",
-                                    "label": "Group &&Above",
-                                    "enabled": false
+                                    "label": "Group &&Above"
                                 },
                                 {
                                     "id": "workbench.action.focusBelowGroup",
-                                    "label": "Group &&Below",
-                                    "enabled": false
+                                    "label": "Group &&Below"
                                 }
                             ]
                         }
@@ -1132,6 +1123,7 @@
             },
             "workbench.action.openSettings": {
                 "label": "Ctrl+,",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+,"
             },
             "workbench.view.extensions": {
@@ -1208,6 +1200,7 @@
             },
             "editor.action.commentLine": {
                 "label": "Ctrl+/",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+/"
             },
             "editor.action.blockComment": {
@@ -1289,10 +1282,12 @@
             },
             "workbench.action.zoomIn": {
                 "label": "Ctrl+=",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+="
             },
             "workbench.action.zoomOut": {
                 "label": "Ctrl+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+-"
             },
             "workbench.action.zoomReset": {
@@ -1331,6 +1326,7 @@
             },
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+`"
             },
             "workbench.actions.view.problems": {
@@ -1343,10 +1339,12 @@
             },
             "workbench.action.navigateBack": {
                 "label": "Ctrl+Alt+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+alt+-"
             },
             "workbench.action.navigateForward": {
                 "label": "Ctrl+Shift+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+-"
             },
             "workbench.action.navigateToLastEditLocation": {
@@ -1442,6 +1440,7 @@
             },
             "editor.action.jumpToBracket": {
                 "label": "Ctrl+Shift+\\",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+\\"
             },
             "editor.action.marker.nextInFiles": {
@@ -1502,6 +1501,7 @@
             },
             "workbench.action.terminal.new": {
                 "label": "Ctrl+Shift+`",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+`"
             },
             "workbench.action.terminal.split": {
@@ -1531,8 +1531,8 @@
             "backupPath": "/home/abinesh/StableCoin/Backups/b76ee3d925da9482d68bdfbe553adae4",
             "uiState": {
                 "mode": 1,
-                "x": 1920,
-                "y": 138,
+                "x": 1908,
+                "y": 177,
                 "width": 1229,
                 "height": 768
             }

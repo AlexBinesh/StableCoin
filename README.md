@@ -34,9 +34,10 @@ is a smart contract upgrade, and they will reset on the 30 day schedule.
 
 |   Contract Name  | Description    |   
 |-----------|-----------|
+|   Relay    |   Proxy Contract to handle the Coin upgrade |
 |   Stablecoin   |  Initial StableCoin Contract|   
 |   Stablecoinupgrade    |   Upgraded version of the Stable Coin Contract |
-|   Relay    |   Proxy Contract to handle the Coin upgrade |
+
 
 ### Test Script Names
 
@@ -47,6 +48,14 @@ is a smart contract upgrade, and they will reset on the 30 day schedule.
 |   DeplyStableCoinUpgrade    |   Deploys Stablecoin Upgrade, Relay, and register SC Upgrade to Relay (Proxy), resets existing balances and does asset transfer |
 |   Deploy-StableCoin-Then-Schedule-Upgrade    |   Invokes  DeplyStableCoin,  and performs the associated asset transfers and balance resets|
 TestAllContracts    |   Deploys StableCoin , Relay, then registers SC to Relay and does asset transfer (Proxy) Contract, then deploys Stablecoin Upgrade and registers SC Upgrade to Relay (Proxy), resets existing balances and does asset transfer |
+
+### Kovan 
+
+| Contract Name | Address |
+|-------------------|-----------|
+| Relay | 0x2B995f7B9Ff993722C2e627b881C4e57c3a7372F | 
+| Stablecoin | 0xe7aAC3B3cB0bEe8f28509A6DcD2a86e387aB83C9 | 
+| Stablecoinupgrade | 0x9270b6C1aA4BB05de81DFb7D10923F839C0eA71E | 
 
 ### Testing
 

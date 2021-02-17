@@ -1,3 +1,4 @@
+const HDWalletProvider = require('@truffle/hdwallet-provider'); 
 /**
  * Use this file to configure your truffle project. It's seeded with some
  * common settings for different networks and features like migrations,
@@ -42,13 +43,21 @@ module.exports = {
     // tab if you use this network and you must also set the `host`, `port` and `network_id`
     // options below to some value.
     //
-     development: {
-      host: "127.0.0.1",     // Localhost (default: none)
-      port: 8545,            // Standard Ethereum port (default: none)
-      network_id: "*",       // Any network (default: none)
+     developmentee: {
+      host: "127.0.0.1",     
+      port: 8545,            
+      network_id: "*",       
      },
-
-    // Another network with more advanced options...
+     kovan: 
+     { 
+       provider: new HDWalletProvider("7ccfbcec1085da5b5b6c69d75dc88cd29d50e8f29b5be676bf169036b1a27e6b","https://kovan.infura.io/v3/58897e6e7c744d2f9d575f99a6b97b49"), 
+            network_id: 42, // Kovan id 
+            gas: 5500000, 
+            confirmations: 2, // # of confs to wait between deployments. (default: 0) 
+            timeoutBlocks: 200, // # of blocks before a deployment times out (minimum/default: 50) 
+            skipDryRun: true // Skip dry run before migrations? (default: false for public nets ) }, 
+     },
+            // Another network with more advanced options...
     // advanced: {
       // port: 8777,             // Custom port
       // network_id: 1342,       // Custom network
