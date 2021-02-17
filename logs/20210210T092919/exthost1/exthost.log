@@ -1,0 +1,165 @@
+[2021-02-10 09:29:28.094] [exthost] [info] extension host started
+[2021-02-10 09:29:28.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-10 09:29:28.195] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-10 09:29:28.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-02-10 09:29:28.701] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-02-10 09:29:28.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-02-10 09:29:28.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-02-10 09:29:29.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-02-10 09:29:29.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-02-10 09:29:29.675] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2021-02-10 09:29:29.675] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-10 09:29:30.782] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-02-10 09:29:30.782] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-02-10 09:29:30.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-10 09:29:30.912] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-10 09:29:30.936] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-10 09:29:30.937] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-10 09:29:31.056] [exthost] [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode {"startup":true,"extensionId":{"value":"googlecloudtools.cloudcode","_lower":"googlecloudtools.cloudcode"},"activationEvent":"*"}
+[2021-02-10 09:29:31.056] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/googlecloudtools.cloudcode-1.8.0/dist/extension.js
+[2021-02-10 09:29:32.447] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml {"startup":true,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 09:29:32.447] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/redhat.vscode-yaml-0.14.0/out/src/extension
+[2021-02-10 09:29:32.852] [exthost] [info] ExtensionService#_doActivateExtension mindaro-dev.file-downloader {"startup":true,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 09:29:32.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/mindaro-dev.file-downloader-1.0.9/dist/extension
+[2021-02-10 09:29:33.342] [exthost] [info] ExtensionService#_doActivateExtension ms-kubernetes-tools.vscode-kubernetes-tools {"startup":true,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 09:29:33.342] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.2.3/dist/extension
+[2021-02-10 09:29:34.133] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-10 09:29:34.134] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-10 09:29:34.646] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-02-10 09:29:34.646] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-02-10 09:29:38.178] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-02-10 09:29:38.178] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-10 09:29:38.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-02-10 09:29:38.289] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-10 09:29:38.295] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-02-10 09:29:38.295] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-02-10 09:29:38.301] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-02-10 09:29:38.302] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/ms-vscode-remote.remote-containers-0.158.0/dist/extension
+[2021-02-10 09:29:41.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-10 09:29:41.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-02-10 09:29:41.860] [exthost] [info] ExtensionService#_doActivateExtension mindaro.mindaro {"startup":true,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 09:29:41.861] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/mindaro.mindaro-1.0.120210126/dist/extension
+[2021-02-10 09:29:43.841] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-02-10 09:30:22.230] [exthost] [info] eager extensions activated
+[2021-02-10 10:38:12.658] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2021-02-10 10:38:12.659] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/snap/code/54/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:64150)
+	at _.handleFailedRequest (/snap/code/54/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:64001)
+	at /snap/code/54/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:24343
+[2021-02-10 13:26:56.182] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-02-10 13:26:57.247] [exthost] [info] exiting with code 0
+[2021-02-10 13:26:59.717] [exthost] [info] extension host started
+[2021-02-10 13:26:59.784] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-10 13:26:59.784] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-10 13:26:59.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-10 13:26:59.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-10 13:26:59.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-10 13:26:59.807] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-10 13:26:59.864] [exthost] [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode {"startup":true,"extensionId":{"value":"googlecloudtools.cloudcode","_lower":"googlecloudtools.cloudcode"},"activationEvent":"*"}
+[2021-02-10 13:26:59.864] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/googlecloudtools.cloudcode-1.8.0/dist/extension.js
+[2021-02-10 13:27:00.913] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml {"startup":true,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:27:00.913] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/redhat.vscode-yaml-0.15.0/out/src/extension
+[2021-02-10 13:27:01.523] [exthost] [info] ExtensionService#_doActivateExtension mindaro-dev.file-downloader {"startup":true,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:27:01.523] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/mindaro-dev.file-downloader-1.0.9/dist/extension
+[2021-02-10 13:27:01.755] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-10 13:27:01.755] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-10 13:27:02.014] [exthost] [info] ExtensionService#_doActivateExtension ms-kubernetes-tools.vscode-kubernetes-tools {"startup":false,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:27:02.014] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.2.4/dist/extension
+[2021-02-10 13:27:02.988] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-10 13:27:02.988] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-10 13:27:03.509] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-10 13:27:03.509] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-02-10 13:27:03.569] [exthost] [info] ExtensionService#_doActivateExtension mindaro.mindaro {"startup":false,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:27:03.569] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/mindaro.mindaro-1.0.120210126/dist/extension
+[2021-02-10 13:27:09.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:27:09.778] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-10 13:27:09.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:27:09.851] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-10 13:27:09.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:27:09.918] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-02-10 13:27:09.970] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:27:09.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/ms-vscode-remote.remote-containers-0.158.0/dist/extension
+[2021-02-10 13:27:12.099] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-02-10 13:27:55.501] [exthost] [info] eager extensions activated
+[2021-02-10 13:28:13.971] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-02-10 13:28:15.024] [exthost] [info] exiting with code 0
+[2021-02-10 13:28:16.393] [exthost] [info] extension host started
+[2021-02-10 13:28:16.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-10 13:28:16.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-10 13:28:16.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-02-10 13:28:16.544] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-02-10 13:28:16.613] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-10 13:28:16.613] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-10 13:28:16.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-10 13:28:16.616] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-10 13:28:16.637] [exthost] [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode {"startup":true,"extensionId":{"value":"googlecloudtools.cloudcode","_lower":"googlecloudtools.cloudcode"},"activationEvent":"*"}
+[2021-02-10 13:28:16.637] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/googlecloudtools.cloudcode-1.8.0/dist/extension.js
+[2021-02-10 13:28:17.029] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml {"startup":true,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:28:17.030] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/redhat.vscode-yaml-0.15.0/out/src/extension
+[2021-02-10 13:28:17.083] [exthost] [info] ExtensionService#_doActivateExtension mindaro-dev.file-downloader {"startup":true,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:28:17.083] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/mindaro-dev.file-downloader-1.0.9/dist/extension
+[2021-02-10 13:28:17.422] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-10 13:28:17.422] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-10 13:28:17.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-10 13:28:17.537] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-02-10 13:28:17.540] [exthost] [info] ExtensionService#_doActivateExtension ms-kubernetes-tools.vscode-kubernetes-tools {"startup":false,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:28:17.540] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.2.4/dist/extension
+[2021-02-10 13:28:18.242] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-02-10 13:28:18.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-10 13:28:18.579] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-10 13:28:18.831] [exthost] [info] ExtensionService#_doActivateExtension mindaro.mindaro {"startup":false,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:28:18.840] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/mindaro.mindaro-1.0.120210126/dist/extension
+[2021-02-10 13:28:26.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:28:26.520] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-10 13:28:26.525] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:28:26.525] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-10 13:28:26.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:28:26.527] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-02-10 13:28:26.529] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:28:26.529] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/ms-vscode-remote.remote-containers-0.158.0/dist/extension
+[2021-02-10 13:28:49.401] [exthost] [info] eager extensions activated
+[2021-02-10 13:29:31.207] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-02-10 13:29:32.235] [exthost] [info] exiting with code 0
+[2021-02-10 13:29:33.113] [exthost] [info] extension host started
+[2021-02-10 13:29:33.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-10 13:29:33.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-10 13:29:33.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-10 13:29:33.160] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-10 13:29:33.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-10 13:29:33.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-10 13:29:33.179] [exthost] [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode {"startup":true,"extensionId":{"value":"googlecloudtools.cloudcode","_lower":"googlecloudtools.cloudcode"},"activationEvent":"*"}
+[2021-02-10 13:29:33.179] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/googlecloudtools.cloudcode-1.8.0/dist/extension.js
+[2021-02-10 13:29:33.491] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml {"startup":true,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:29:33.491] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/redhat.vscode-yaml-0.15.0/out/src/extension
+[2021-02-10 13:29:33.549] [exthost] [info] ExtensionService#_doActivateExtension mindaro-dev.file-downloader {"startup":true,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:29:33.549] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/mindaro-dev.file-downloader-1.0.9/dist/extension
+[2021-02-10 13:29:33.820] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-10 13:29:33.820] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-10 13:29:33.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-10 13:29:33.905] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-02-10 13:29:33.909] [exthost] [info] ExtensionService#_doActivateExtension ms-kubernetes-tools.vscode-kubernetes-tools {"startup":false,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:29:33.909] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.2.4/dist/extension
+[2021-02-10 13:29:34.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-10 13:29:34.311] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-10 13:29:34.330] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-02-10 13:29:34.458] [exthost] [info] ExtensionService#_doActivateExtension mindaro.mindaro {"startup":false,"extensionId":{"value":"mindaro.mindaro","_lower":"mindaro.mindaro"},"activationEvent":"*"}
+[2021-02-10 13:29:34.458] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/mindaro.mindaro-1.0.120210126/dist/extension
+[2021-02-10 13:29:41.930] [exthost] [info] eager extensions activated
+[2021-02-10 13:29:41.935] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:29:41.935] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-10 13:29:41.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:29:41.941] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-10 13:29:41.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:29:41.944] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-02-10 13:29:41.947] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-02-10 13:29:41.947] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/abinesh/.vscode/extensions/ms-vscode-remote.remote-containers-0.158.0/dist/extension
+[2021-02-10 13:30:33.359] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-02-10 13:30:33.359] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-02-10 13:34:30.007] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-02-10 13:34:30.007] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-02-10 13:40:23.511] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-02-10 13:40:23.511] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-02-10 13:40:23.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-02-10 13:40:23.545] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-02-10 13:40:23.630] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-02-10 13:40:23.630] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/54/usr/share/code/resources/app/extensions/npm/dist/npmMain

@@ -1,0 +1,5 @@
+[2021-02-10 09:29:25.748] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/abinesh/CODEC/.vscode'
+[2021-02-10 13:26:55.188] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+[2021-02-10 13:26:57.649] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/abinesh/StableCoin/contracts/.vscode'
+[2021-02-10 13:28:16.066] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/abinesh/CODEC/.vscode'
+[2021-02-10 13:29:32.704] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/abinesh/StableCoin/.vscode'

@@ -1,0 +1,7 @@
+[2021-02-10 17:20:08.885] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-13 03:52:00.167] [sharedprocess] [info] Installing extension: ms-vscode.azure-account
+[2021-02-13 03:52:02.291] [sharedprocess] [info] Downloaded extension: ms-vscode.azure-account undefined
+[2021-02-13 03:52:03.253] [sharedprocess] [info] Extracted extension to /home/abinesh/.vscode/extensions/.ms-vscode.azure-account-0.9.6: ms-vscode.azure-account
+[2021-02-13 03:52:03.253] [sharedprocess] [info] Renamed to /home/abinesh/.vscode/extensions/ms-vscode.azure-account-0.9.6
+[2021-02-13 03:52:03.254] [sharedprocess] [info] Installation completed. ms-vscode.azure-account
+[2021-02-13 03:52:03.637] [sharedprocess] [info] Extensions installed successfully: ms-vscode.azure-account

@@ -1,0 +1,19 @@
+[2021-02-10 09:29:29.124] [sharedprocess] [info] Installing extension: golang.go
+[2021-02-10 09:29:29.125] [sharedprocess] [info] Installing extension: ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-02-10 09:29:29.125] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2021-02-10 09:29:29.919] [sharedprocess] [info] Downloaded extension: ms-kubernetes-tools.vscode-kubernetes-tools undefined
+[2021-02-10 09:29:30.092] [sharedprocess] [info] Extracted extension to /home/abinesh/.vscode/extensions/.ms-kubernetes-tools.vscode-kubernetes-tools-1.2.4: ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-02-10 09:29:30.092] [sharedprocess] [info] Renamed to /home/abinesh/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.2.4
+[2021-02-10 09:29:30.094] [sharedprocess] [info] Installation completed. ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-02-10 09:29:30.120] [sharedprocess] [info] Downloaded extension: golang.go undefined
+[2021-02-10 09:29:30.188] [sharedprocess] [info] Extracted extension to /home/abinesh/.vscode/extensions/.golang.go-0.22.1: golang.go
+[2021-02-10 09:29:30.188] [sharedprocess] [info] Renamed to /home/abinesh/.vscode/extensions/golang.go-0.22.1
+[2021-02-10 09:29:30.190] [sharedprocess] [info] Installation completed. golang.go
+[2021-02-10 09:29:30.277] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml undefined
+[2021-02-10 09:29:30.536] [sharedprocess] [info] Extensions installed successfully: ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-02-10 09:29:30.614] [sharedprocess] [info] Extensions installed successfully: golang.go
+[2021-02-10 09:29:31.207] [sharedprocess] [info] Extracted extension to /home/abinesh/.vscode/extensions/.redhat.vscode-yaml-0.15.0: redhat.vscode-yaml
+[2021-02-10 09:29:31.207] [sharedprocess] [info] Renamed to /home/abinesh/.vscode/extensions/redhat.vscode-yaml-0.15.0
+[2021-02-10 09:29:31.207] [sharedprocess] [info] Installation completed. redhat.vscode-yaml
+[2021-02-10 09:29:31.899] [sharedprocess] [info] Extensions installed successfully: redhat.vscode-yaml
+[2021-02-10 09:30:04.409] [sharedprocess] [info] Starting to clean up unused language packs.

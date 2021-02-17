@@ -1,0 +1,9 @@
+[2021-02-16 20:57:33.173] [sharedprocess] [info] Deleted from disk ms-kubernetes-tools.vscode-kubernetes-tools /home/abinesh/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.2.4
+[2021-02-16 20:57:33.326] [sharedprocess] [info] Deleted from disk ms-azuretools.vscode-docker /home/abinesh/.vscode/extensions/ms-azuretools.vscode-docker-1.9.1
+[2021-02-16 20:57:34.929] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-02-16 20:57:35.740] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools undefined
+[2021-02-16 20:57:36.062] [sharedprocess] [info] Extracted extension to /home/abinesh/.vscode/extensions/.ms-vscode.cpptools-1.2.1: ms-vscode.cpptools
+[2021-02-16 20:57:36.063] [sharedprocess] [info] Renamed to /home/abinesh/.vscode/extensions/ms-vscode.cpptools-1.2.1
+[2021-02-16 20:57:36.065] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2021-02-16 20:57:36.244] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2021-02-16 20:58:06.203] [sharedprocess] [info] Starting to clean up unused language packs.

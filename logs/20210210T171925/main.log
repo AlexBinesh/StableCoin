@@ -1,0 +1,37 @@
+[2021-02-10 17:19:25.374] [main] [info] update#setState idle
+[2021-02-10 17:19:55.378] [main] [info] update#setState checking for updates
+[2021-02-10 17:19:55.379] [main] [info] update#setState idle
+[2021-02-10 18:19:55.392] [main] [info] update#setState checking for updates
+[2021-02-10 18:19:55.395] [main] [info] update#setState idle
+[2021-02-10 19:19:55.490] [main] [info] update#setState checking for updates
+[2021-02-10 19:19:55.493] [main] [info] update#setState idle
+[2021-02-11 03:42:44.476] [main] [info] update#setState checking for updates
+[2021-02-11 03:42:44.584] [main] [info] update#setState idle
+[2021-02-11 04:42:44.482] [main] [info] update#setState checking for updates
+[2021-02-11 04:42:44.679] [main] [info] update#setState idle
+[2021-02-11 07:55:38.787] [main] [info] update#setState checking for updates
+[2021-02-11 07:55:38.856] [main] [info] update#setState idle
+[2021-02-11 08:55:38.888] [main] [info] update#setState checking for updates
+[2021-02-11 08:55:38.891] [main] [info] update#setState idle
+[2021-02-11 09:55:38.989] [main] [info] update#setState checking for updates
+[2021-02-11 09:55:38.990] [main] [info] update#setState idle
+[2021-02-11 10:55:38.990] [main] [info] update#setState checking for updates
+[2021-02-11 10:55:38.993] [main] [info] update#setState idle
+[2021-02-11 11:55:38.994] [main] [info] update#setState checking for updates
+[2021-02-11 11:55:38.996] [main] [info] update#setState idle
+[2021-02-11 12:55:39.091] [main] [info] update#setState checking for updates
+[2021-02-11 12:55:39.093] [main] [info] update#setState idle
+[2021-02-11 13:55:39.096] [main] [info] update#setState checking for updates
+[2021-02-11 13:55:39.127] [main] [info] update#setState idle
+[2021-02-11 14:55:39.156] [main] [info] update#setState checking for updates
+[2021-02-11 14:55:39.510] [main] [info] update#setState idle
+[2021-02-11 15:55:39.206] [main] [info] update#setState checking for updates
+[2021-02-11 15:55:39.207] [main] [info] update#setState idle
+[2021-02-12 06:15:53.269] [main] [info] update#setState checking for updates
+[2021-02-12 06:15:53.456] [main] [info] update#setState idle
+[2021-02-12 06:16:05.150] [main] [info] update#setState checking for updates
+[2021-02-12 06:16:05.406] [main] [error] Error: ENOENT: no such file or directory, lstat '/snap/code/current'
+[2021-02-12 06:16:05.407] [main] [info] update#setState idle
+[2021-02-12 06:16:48.647] [main] [info] update#setState checking for updates
+[2021-02-12 06:16:48.648] [main] [info] update#setState ready
+[2021-02-15 11:28:58.759] [main] [error] Main: detected unresponsive

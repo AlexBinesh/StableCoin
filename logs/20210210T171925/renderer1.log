@@ -1,0 +1,4 @@
+[2021-02-10 17:19:26.960] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/abinesh/StableCoin/.vscode'
+[2021-02-14 13:10:51.894] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/abinesh/CODEC/JWTAuth/.vscode'
+[2021-02-15 09:12:35.975] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/abinesh/StableCoin/.vscode'
+[2021-02-15 09:12:45.720] [renderer1] [warning] UNRESPONSIVE extension host, 'redhat.vscode-yaml' took 91% of 2390.363ms, saved PROFILE here: '/tmp/exthost-016f0c.cpuprofile' [{"id":"gc","total":12000,"percentage":1},{"id":"mindaro-dev.file-downloader","total":11369,"percentage":0},{"id":"program","total":134711,"percentage":6},{"id":"redhat.vscode-yaml","total":2173304,"percentage":91},{"id":"self","total":58847,"percentage":2}]

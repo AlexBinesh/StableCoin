@@ -1,0 +1,2 @@
+[2021-02-15 13:05:27.651] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/abinesh/StableCoin/.vscode'
+[2021-02-15 13:05:35.552] [renderer1] [warning] UNRESPONSIVE extension host, 'redhat.vscode-yaml' took 92% of 1328.279ms, saved PROFILE here: '/tmp/exthost-264766.cpuprofile' [{"id":"mindaro-dev.file-downloader","total":21549,"percentage":2},{"id":"redhat.vscode-yaml","total":1216923,"percentage":92},{"id":"self","total":89533,"percentage":7}]
